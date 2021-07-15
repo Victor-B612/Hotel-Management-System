@@ -2,7 +2,6 @@
 #include <time.h>
 #include "Customer.h"
 
-
 int main()
 {
     srand(time(NULL));
@@ -12,3 +11,4 @@ int main()
     system("pause>0");
     return 0;
 }
+

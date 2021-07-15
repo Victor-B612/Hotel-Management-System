@@ -5,7 +5,6 @@
 void Customer::menu() {
 	char Option;
 	double totalCost;
-	//displayMenu();
 	do {
 		displayMenu();
 		std::cout << "Select an option, please: ";
